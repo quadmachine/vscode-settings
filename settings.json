@@ -1,0 +1,62 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 13,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 0,
+    "editor.matchBrackets": false,
+    "editor.wordWrapColumn": 180,
+    // "editor.cursorStyle": "underline",
+    // "editor.cursorWidth": 3,
+    "subtleBrackets.bracketPairs": [
+        "{}",
+        "[]",
+        "<>",
+        "()"
+    ],
+    "subtleBrackets.styles": {
+        "global": {
+            "borderStyle": "solid none solid none",
+            "borderColor": "#fff",
+            "borderWidth": "2px"
+        }
+    },
+    "terminal.integrated.rendererType": "dom",
+    // Is git enabled
+    "git.enabled": false,
+
+    // Path to the git executable
+    "git.path": null,
+
+    // Whether auto fetching is enabled.
+    "git.autofetch": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.accessibilitySupport": "off",
+    "editor.renderLineHighlight": "all",
+    "editor.colorDecorators": false,
+    "vetur.colorDecorators.enable": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true,
+    "emmet.includeLanguages": {
+        "twig": "html",
+    },
+    "breadcrumbs.enabled": true,
+    "explorer.openEditors.visible": 0,
+    "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.statusBar.feedback.visible": false
+}
